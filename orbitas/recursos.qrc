@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/imagenes">
+        <file>tierra.png</file>
+        <file>sol.png</file>
+        <file>fondo_espacio.jpg</file>
+        <file>marte.png</file>
+        <file>sistema1.jpg</file>
+        <file>saturno.png</file>
+        <file>jupiter.png</file>
+        <file>sistema2.jpg</file>
+    </qresource>
+</RCC>
